@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dguedin, Cloud Architect AWS at PUY DU FOU
 - 👀 I’m interested in Architecture, Serverless, Infrastructure As Code, Data Driven, Cloud... 
-- 🌱 I’m currently learning AWS and developpement 
 
 <!---
 dguedin/dguedin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
